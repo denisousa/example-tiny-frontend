@@ -43,7 +43,7 @@ const ExampleTinyFrontend: React.FC<ExampleTinyFrontendProps> = ({
       </div>
 
       <Button onClick={() => setValue((value) => value + 1)}>
-        Press me Remix Europe!
+        Press me Remix Brazil!
       </Button>
     </div>
   );
