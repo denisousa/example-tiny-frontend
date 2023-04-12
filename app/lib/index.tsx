@@ -14,7 +14,7 @@ const ExampleTinyFrontend: React.FC<ExampleTinyFrontendProps> = ({
 
   return (
     <div className={styles.container}>
-      <h1>HELLO NEW MF</h1>
+      <h1>HELLO MY TEAM!!!</h1>
     </div>
   );
 };
